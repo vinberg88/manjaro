@@ -402,10 +402,7 @@ SHA256SUMS
 
 # Useful links
 
-- Manjaro Linux: https://manjaro.org/
-- Manjaro Wiki: https://wiki.manjaro.org/
-- Manjaro Forum: https://forum.manjaro.org/
-- Microsoft WSL: https://learn.microsoft.com/windows/wsl/
+- Email me: mattiasvinberg@duck.com
 - My GitHub: https://github.com/vinberg88
 - More WSL/Linux projects: https://github.com/vinberg88/opensuse
 - YouTube: https://www.youtube.com/@mattiasvinberg
