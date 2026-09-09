@@ -409,12 +409,4 @@ SHA256SUMS
 
 ---
 
-## Disclaimer
-
-This is a **community WSL project** and is not an official Manjaro Linux distribution image or an official Manjaro project.
-
-Manjaro and its trademarks belong to their respective owners.
-
----
-
 **Manjaro + WSL2 = a powerful rolling Linux development environment inside Windows.** 🚀
