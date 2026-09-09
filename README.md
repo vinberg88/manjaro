@@ -1,4 +1,4 @@
-# manjaro - Easy setup and easy to USE - 2026
+# Manjaro - Easy setup and easy to USE - 2026
 
 Download Manjaro image for wsl via This link: https://github.com/vinberg88/manjaro/releases/tag/0.1.1
 
