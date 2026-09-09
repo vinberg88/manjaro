@@ -10,6 +10,12 @@ The current release is **Manjaro WSL Base 0.1.1**.
 
 ---
 
+Next desktop for WSL and Manjaro - setup for KDE 6 via Youtube and Github.
+
+<img width="1200" height="800" alt="Manjaro-KDE6-2026" src="https://github.com/user-attachments/assets/9c7d62a5-5950-4054-84c7-5112cc1bb406" />
+
+---
+
 ## What is Manjaro Linux?
 
 [Manjaro Linux](https://manjaro.org/) is a free and open-source Linux distribution based on Arch Linux.
