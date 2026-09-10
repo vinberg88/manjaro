@@ -8,9 +8,11 @@ The current release is **Manjaro WSL Base 0.1.1**.
 
 ---
 
-Here you will find diffrent desktop for MANJARO LINUX to Install for WSL and Windows
+Here you will find diffrent desktop for MANJARO LINUX to Install for WSL and Windows 11.
 
-Setup KDE 6 for Manjaro - via Youtube and Github. https://github.com/vinberg88/manjaro/blob/main/Manjaro-KDE6-2026.txt
+Setup KDE 6 for Manjaro via Github: https://github.com/vinberg88/manjaro/blob/main/Manjaro-KDE6-2026.txt
+
+Setup KDE 6 for Manjaro via YouTube: https://www.youtube.com/watch?v=n8cddVc5cQE
 
 <img width="1200" height="800" alt="Manjaro-KDE6-2026" src="https://github.com/user-attachments/assets/9c7d62a5-5950-4054-84c7-5112cc1bb406" />
 
