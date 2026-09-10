@@ -1,0 +1,452 @@
+MANJARO and KDE 6 - WSL - How to install KDE 6 via Manjaro - X410 - Windows 11 - YouTube - 2026
+
+How to install KDE 6 via Manjaro - WSL - TEXT via GITHUB.
+Comming SONE
+
+How to install KDE 6 via Manjaro - WSL - Movie via YOUTUBE
+https://www.youtube.com/watch?v=n8cddVc5cQE
+
+Download Manjaro here: https://github.com/vinberg88/manjaro
+
+TOOLS THAT I USE FOR WSL and WINDOWS 11 - 2026 - MANJARO AND KDE 6.
+
+Raft WSL is a powerful tool for managing Windows Subsystem for Linux distributions.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+Use X410 - X Server for Windows 11 and it works well.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+                                        
+██████████████████  ████████   Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
+██████████████████  ████████   
+██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████   
+████████            ████████       More desktops for WSL: https://github.com/vinberg88/opensuse
+████████  ████████  ████████
+████████  ████████  ████████    OS: Manjaro Linux x86_64 for WSL.
+████████  ████████  ████████    
+████████  ████████  ████████    Host: Windows Subsystem for Linux - Manjaro-WSL (2.9.10.0)
+████████  ████████  ████████
+████████  ████████  ████████    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+████████  ████████  ████████    
+████████  ████████  ████████    OS: Windows 11 Pro for Workstations (25H2) x86_64
+████████  ████████  ████████     
+████████  ████████  ████████    Find ME - https://github.com/vinberg88
+████████  ████████  ████████  
+████████  ████████  ████████    DOWNLOAD MANJARO: https://github.com/vinberg88/manjaro
+████████  ████████  ████████     
+████████  ████████  ████████    Contact - mattiasvinberg@duck.com
+
+About KDE plasma 6 for Manjaro - https://kde.org - 2026
+
+KDE is developed by a community of passionate people. We 
+develop KDE for everyone, from kids to grandparents and
+from professionals to hobbyists. Use Plasma to surf the web;
+keep in touch with colleagues, friends and family; manage your
+files, enjoy music and videos; and get creative and productive
+at work. Do it all in a beautiful environment that adapts to
+your needs, and with the safety, privacy-protection and peace
+of mind that the best Free Open Source Software has to offer.
+Plasma is made to stay out of the way as it helps you get
+things done. But under its light and intuitive surface, it's
+a powerhouse. So you're free to choose ways of usage right
+as you need them and when you need them. With Plasma the user
+is king. Not happy with the color scheme? Change it! Want to
+have your panel on the left edge of the screen? Move it! Don't
+like the font? Use a different one! Download custom widgets in
+one click and add them to your desktop or panel.
+
+About Manjaro for WSL - 2026 - https://manjaro.org
+
+Manjaro is a versatile open-source Linux operating system designed
+with a strong focus on safeguarding user privacy and offering
+extensive control over hardware. This user-friendly OS is an
+excellent choice for those who seek a fresh computing experience, as
+it can be seamlessly installed on a diverse array of devices.
+With support for both x86-64 and ARM architectures, Manjaro
+stands as an ideal option for any device or computing environment.
+Furthermore, Manjaro provides an array of customization options
+and a rich selection of applications, all while prioritizing
+security and privacy features. To cater to a wide audience.
+
+Find More Stuff for WSL here. Diffrent desktops for WSL and Windows 11 - 2026
+
+https://github.com/vinberg88/opensuse or https://github.com/vinberg88
+
+WSL desktops and Linux via YouTUBE https://www.youtube.com/@mattiasvinberg
+
+------------------------------------------------------
+
+FIRST THING TO DO: FIX WSLg IS ON FOR MANJARO LINUX - WSL.
+
+NOTE: OPEN SETTNINGS FOR WSL AND LOOK SO WSLg IS ON!
+
+------------------------------------------------------
+
+Download MANJARO from GITHUB https://github.com/vinberg88/manjaro
+
+Now press the blue ICON and you are running MANJARO.
+
+MANJARO WSL WILL SETUP USER AND PASSWORD AND HOSTNAME FOR MANJARO IN CONSOLE.
+
+------------------------------------------------------
+
+Next go to MANJARO terminal and do this.
+
+Copy and Paste in Manjaro terminal: sudo nano /etc/pacman.conf 
+
+and change in file.. Remove old text.
+
+# Misc options
+#UseSyslog
+Color
+ParallelDownloads = 20
+ILoveCandy
+#TotalDownload
+#CheckSpace
+VerbosePkgLists
+
+Now go done in file and change this in nano.
+
+#[multilib]
+#Include = /etc/pacman.d/mirrorlist
+
+to
+
+[multilib]
+Include = /etc/pacman.d/mirrorlist
+
+Look down in bottom: You will see: ParallelDownloads = 5
+
+Delete this: ParallelDownloads = 5.
+
+Save and quit nano.
+
+------------------------------------------------------
+
+For Manjaro OS and now lets Update all for KDE 6 - 2026 - Manjaro.
+
+sudo pacman -Syu
+
+------------------------------------------------------
+
+Chaotic AUR for CachyOS. Run this in terminal no stress - ARCH LINUX - 2026
+
+yay -S bat wget curl git
+
+wget -q -O chaotic-AUR-installer.bash https://raw.githubusercontent.com/SharafatKarim/chaotic-AUR-installer/main/install.bash && sudo bash chaotic-AUR-installer.bash && rm chaotic-AUR-installer.bash
+
+sudo pacman -Syu
+
+------------------------------------------------------
+
+Time to Update all and get fast repos.
+
+sudo pacman-mirrors --fasttrack 5 && sudo pacman -Syu 
+
+------------------------------------------------------
+
+Install gimp so we can Paint - Manjaro WSL - KDE 6 - 2026
+
+yay -S gimp
+
+------------------------------------------------------
+
+Install blanket so you can listen to sounds for KDE 6 and Manjaro.
+
+yay -S blanket
+
+------------------------------------------------------
+
+Install LibreOffice for Manjaro and KDE 6
+
+yay -S libreoffice
+
+------------------------------------------------------
+
+Install Visual Studio Code for Manjaro.
+
+yay -S code
+
+------------------------------------------------------
+
+Install Google Chrome.
+
+yay -S google-chrome
+
+------------------------------------------------------
+
+Install fastfetch
+
+yay -S fastfetch
+
+To test fastfetch in terminal type: fastfetch
+
+██████████████████  ████████   Enjoy Manjaro on WSL and KDE 6
+██████████████████  ████████   
+██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████   
+████████            ████████       More desktops for WSL:  https://github.com/vinberg88/opensuse
+████████  ████████  ████████
+████████  ████████  ████████    Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
+████████  ████████  ████████    
+████████  ████████  ████████    Host: Windows Subsystem for Linux - Manjaro-WSL (2.9.10.0)
+████████  ████████  ████████
+████████  ████████  ████████    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+████████  ████████  ████████    
+████████  ████████  ████████    OS: Windows 11 Pro for Workstations (25H2) x86_64
+████████  ████████  ████████     
+████████  ████████  ████████    Find ME HERE - https://github.com/vinberg88
+████████  ████████  ████████  
+████████  ████████  ████████    DOWNLOAD MANJARO FOR WSL: https://github.com/vinberg88/manjaro
+████████  ████████  ████████     
+████████  ████████  ████████    Mail: mattiasvinberg@duck.com - 2026
+
+------------------------------------------------------
+
+Install this tools
+
+sudo pacman -S xorg xorg-server xorg-xinit mesa xterm xorg-twm xorg-xrandr xterm xorg-xclock sddm bluedevil libqtxdg
+sudo pacman -S xorg-xfontsel xorg-xlsfonts xorg-xkill xorg-xinput xorg-xwininfo
+
+------------------------------------------------------
+
+Time To install KDE plasma 6 for Manjaro =]
+
+sudo pacman -S plasma-meta kde-applications-meta
+
+------------------------------------------------------
+
+Fix IP problem for X410. Cant find screen problem - MANAJRO AND KDE 6 PLASMA.
+
+OPEN POWERSHELL FROM MICROSOFT AND TYPE: ipconfig
+
+SAVE IP HERE FOR KDE 6 AND MANJARO: 172.30.16.1
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL in POWERSHELL so xserver works.
+
+NOW GO BACK TO MANJARO Terminal and paste this.
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1 <-- put your ip number here from powershell and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed MANJARO AND KDE 6 =] 
+
+------------------------------------------------------
+
+Paste in terminal - all
+
+sudo systemctl enable sddm.service
+sudo systemctl enable NetworkManager.service
+sudo systemctl set-default graphical
+
+------------------------------------------------------
+
+Type this in terminal and put your user there: sudo loginctl enable-linger adolf
+
+------------------------------------------------------------
+
+Install some cursor for MANJARO and KDE 6 - 2026
+
+yay -S xcursor-comix xcursor-themes xcursor-vanilla-dmz xcursor-vanilla-dmz-aa 
+
+yay -S adwaita-cursors breeze-cursors capitaine-cursors default-cursors vimix-cursors
+
+------------------------------------------------------
+
+INSTALL Tokyonight DARK ICON for KDE 6 - MY FAVORIT ICONS FOR Manjaro - ✔
+
+DOWNLOAD LINK MAYBE NOT WORK - https://www.gnome-look.org/p/1681475
+
+COPY AND PASTE FOR Manjaro AND KDE 6 - 2026 - WSL2
+
+wget https://www.braknulla.se/Tokyonight-Dark-Icons.zip
+sudo mkdir -p ~/.local/share/Icons
+sudo unzip Tokyonight-Dark-Icons.zip -d ~/.local/share/icons/
+
+Works Perfect for Manjaro and KDE 6 - 2026 - ✔
+
+------------------------------------------------------
+
+WSL/KDE-rice - For KDE 6 and MANJARO - Copy and Paste in terminal - 🥷🌙
+
+yay -S rsync vicinae opencode xclip xsel
+
+rm -rf /tmp/Scratchy
+git clone --depth 1 https://gitlab.com/jomada/Scratchy.git /tmp/Scratchy
+
+sudo mkdir -p \
+  ~/.local/share/aurorae/themes \
+  ~/.local/share/color-schemes \
+  ~/.local/share/konsole \
+  ~/.local/share/plasma/look-and-feel \
+  ~/.local/share/plasma/desktoptheme \
+  ~/.local/share/wallpapers
+
+sudo rsync -a /tmp/Scratchy/aurorae/Scratchy ~/.local/share/aurorae/themes/
+sudo cp -f /tmp/Scratchy/color-schemes/*.colors ~/.local/share/color-schemes/
+sudo cp -f /tmp/Scratchy/konsole/*.colorscheme ~/.local/share/konsole/
+sudo rsync -a /tmp/Scratchy/look-and-feel/Scratchy ~/.local/share/plasma/look-and-feel/
+sudo rsync -a /tmp/Scratchy/plasma/Scratchy ~/.local/share/plasma/desktoptheme/
+sudo rsync -a /tmp/Scratchy/wallpaper/* ~/.local/share/wallpapers/
+
+kbuildsycoca6 2>/dev/null || true
+
+🌙 Wait to activate Scratchy themes for KDE 6. Do that from KDE when you run desktop via MANJARO WSL - X410
+
+----------------------------------------------------------------
+
+Sone we are done. Take some time to install all for MANJARO and KDE 6 for WSL.
+
+
+                  ##                  OS: Manjaro Linux x86_64 for WSL.
+                 ####
+                ######                Host: Windows Subsystem for Linux - Manjaro-WSL (2.9.10.0)
+               ########
+              ##########              Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+             ############
+            ##############            OS: Windows 11 Pro for Workstations (25H2) x86_64
+           ################
+          ##################          More desktops for WSL:  https://github.com/vinberg88/opensuse
+         ####################         
+        ######################        MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+       #########      #########       
+      ##########      ##########      Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
+     ###########      ###########     
+    ##########          ##########    Enjoy Manjaro on WSL and KDE 6
+   #######                  #######   
+  ####                          ####  DOWNLOAD Manjaro for WSL: https://github.com/vinberg88/manjaro
+ ###                              ### 
+                                      Mail: mattiasvinberg@duck.com - 2026
+
+----------------------------------------------------------------
+
+Paste this in console for sound - just so all will work for MANJARO
+
+yay -S systemd wireplumber pipewire pulse
+
+sudo systemctl enable --global pipewire-pulse
+
+----------------------------------------------------------------
+
+Install sound so we have all for KDE 6 and MANJARO
+
+sudo pacman -Syu --needed \
+  libpulse alsa-utils alsa-plugins \
+  plasma-pa pavucontrol sound-theme-freedesktop
+
+------------------------------------------------------
+
+Final install this so we can start KDE 6 via CACHYOS 
+
+sudo pacman -S --needed plasma-x11-session kwin-x11
+
+----------------------------------------------------------------
+
+Make this script for KDE 6 to start for MANJARO - 2026
+
+sudo nano ~/start-kde6.sh
+
+----------------------------------------------------------------
+
+NOW COPY AND PASTE THIS TO TERMINAL - TAKE ALL =) 
+
+#!/usr/bin/env bash
+
+# ----- X410 / X11 -----
+export DISPLAY=${DISPLAY:-$(awk '/nameserver/ {print $2; exit}' /etc/resolv.conf):0.0}
+export QT_QPA_PLATFORM=xcb
+export GDK_BACKEND=x11
+export SDL_VIDEODRIVER=x11
+export QT_X11_NO_MITSHM=1
+unset WAYLAND_DISPLAY
+
+# ----- Runtime dir för KDE -----
+export XDG_RUNTIME_DIR=${XDG_RUNTIME_DIR:-/tmp/runtime-$USER}
+mkdir -p "$XDG_RUNTIME_DIR"
+chmod 700 "$XDG_RUNTIME_DIR"
+
+# ----- Ljud via WSLg PulseAudio -----
+for s in \
+  /mnt/wslg/PulseServer \
+  /mnt/wslg/runtime-dir/pulse/native \
+  "/mnt/wslg/run/user/$(id -u)/pulse/native"
+do
+  if [ -S "$s" ]; then
+    export PULSE_SERVER="unix:$s"
+    break
+  fi
+done
+
+echo "DISPLAY=$DISPLAY"
+echo "PULSE_SERVER=$PULSE_SERVER"
+
+pactl info | sed -n '1,10p' || echo "PulseAudio hittades inte ännu."
+
+exec dbus-run-session startplasma-x11
+EOF
+
+----------------------------------------------------------------
+
+CHMOD SCRIPT FOR MANJARO AND KDE 6 - 2026 - WSL 
+
+sudo chmod +x ~/start-kde6.sh
+
+----------------------------------------------------------------
+
+Reboot Manjaro - Reboot Manjaro - Reboot Manjaro - Reboot Manjaro - Reboot Manjaro 
+
+----------------------------------------------------------------
+
+TIME TO START KDE 6 VIA MANJARO - DISTRO THAT WORKS WELL ON WSLg AND WINDOWS 11 - MANJARO - KDE 6
+
+
+START x410 AND NEXT TERMINAL FROM MANJARO TO START KDE 6 - NO STRESS  
+
+
+Copy and Paste in Console: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Copy and Paste in Console: ~/start-kde6.sh
+
+
+NOTE - NETWORK WELL WORK AFTER START SO JUST WAIT FOR Manjaro - IT TAKE SOME TIME TO START KDE 6 FOR MANJARO VIA WSL.
+
+----------------------------------------------------------------
+
+Manjaro - Raw power and flexibility of Arch Linux and making it more accessible for a bigger audience - Manjaro - 2026
+
+██████████████████  ████████   Enjoy Manjaro on WSL and KDE 6 for MANJARO WSL.
+██████████████████  ████████   
+██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████   
+████████            ████████       More desktops for WSL:  https://github.com/vinberg88/opensuse
+████████  ████████  ████████
+████████  ████████  ████████    OS: Manjaro Linux x86_64 for WSL.
+████████  ████████  ████████    
+████████  ████████  ████████    Host: Windows Subsystem for Linux - Manjaro-WSL (2.9.10.0)
+████████  ████████  ████████
+████████  ████████  ████████    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+████████  ████████  ████████    
+████████  ████████  ████████    OS: Windows 11 Pro for Workstations (25H2) x86_64
+████████  ████████  ████████     
+████████  ████████  ████████    Find ME HERE - https://github.com/vinberg88
+████████  ████████  ████████  
+████████  ████████  ████████    DOWNLOAD Manjaro for WSL: https://github.com/vinberg88/manjaro
+████████  ████████  ████████     
+████████  ████████  ████████    Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
+
+Regards Mattias Vinberg - Manjaro - KDE 6 - SWEDEN - WSL - Microsoft - Linux - X410 - Stockholm - 2026
+
+----------------------------------------------------------------
