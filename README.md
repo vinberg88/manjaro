@@ -1,7 +1,5 @@
 # Manjaro for WSL and Windows 11 - Easy setup!
 
-> Easy Manjaro setup for Windows 11 and WSL2.
-
 This repository provides a ready-to-install **Manjaro Linux WSL base image** for users who want a clean Manjaro environment inside Windows Subsystem for Linux without having to build a root filesystem manually.
 
 The current release is **Manjaro WSL Base 0.1.1**.
@@ -10,7 +8,7 @@ The current release is **Manjaro WSL Base 0.1.1**.
 
 ---
 
-Next desktop for WSL and Manjaro - setup for KDE 6 via Youtube and Github.
+Next desktop for WSL and Manjaro - Setup for KDE 6 via Youtube and Github.
 
 <img width="1200" height="800" alt="Manjaro-KDE6-2026" src="https://github.com/user-attachments/assets/9c7d62a5-5950-4054-84c7-5112cc1bb406" />
 
@@ -142,6 +140,10 @@ The Linux kernel shown inside WSL is the **Microsoft WSL2 kernel**, not a normal
 ---
 
 # Installation
+
+Just download Manjaro from here - https://github.com/vinberg88/manjaro/releases/tag/0.1.1
+
+Now press the Blue Icon that you downloaded and Manjaro will be setup user and password and hostname.
 
 ## Requirements
 
