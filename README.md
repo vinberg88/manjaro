@@ -1,4 +1,4 @@
-# Manjaro Linux for WSL - Easy setup!
+# Manjaro for WSL and Windows 11 - Easy setup!
 
 > Easy Manjaro setup for Windows 11 and WSL2.
 
