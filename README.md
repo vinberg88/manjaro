@@ -414,6 +414,7 @@ SHA256SUMS
 - My GitHub: https://github.com/vinberg88
 - More WSL/Linux projects: https://github.com/vinberg88/opensuse
 - YouTube: https://www.youtube.com/@mattiasvinberg
+- Page about WSL: https://vinberg88.github.io/
 
 ---
 
