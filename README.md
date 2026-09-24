@@ -1,3 +1,8 @@
+
+
+<img width="708" height="300" alt="Manjaro" src="https://github.com/user-attachments/assets/10f6ac87-2963-470e-89e9-b889d3305883" />
+
+
 # Manjaro for WSL and Windows 11 - Easy setup!
 
 This repository provides a ready-to-install **Manjaro Linux WSL base image** for users who want a clean Manjaro environment inside Windows Subsystem for Linux without having to build a root filesystem manually.
