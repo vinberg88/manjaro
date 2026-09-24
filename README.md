@@ -1,6 +1,7 @@
-
-
+<p align="center">
+<a href="https://github.com/vinberg88">
 <img width="708" height="300" alt="Manjaro" src="https://github.com/user-attachments/assets/10f6ac87-2963-470e-89e9-b889d3305883" />
+</p>
 
 
 # Manjaro for WSL and Windows 11 - Easy setup!
