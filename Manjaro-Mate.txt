@@ -3,7 +3,7 @@ MANJARO and MATE - WSL - How to install MATE desktop via Manjaro - X410 - Window
 Download Manjaro here: https://github.com/vinberg88/manjaro
 
 How to install MATE desktop via Manjaro - WSL - TEXT via GITHUB.
-Comming SONE..
+https://github.com/vinberg88/manjaro/blob/main/Manjaro-Mate.txt
 
 How to install MATE desktop via Manjaro - WSL - Movie via YOUTUBE
 Comming SONE..
