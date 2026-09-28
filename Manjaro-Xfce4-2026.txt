@@ -19,11 +19,11 @@ https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
 WSL UI - This tool is free and works like Raft WSL
 https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
 
-██████████████████  ████████   Contact - mattiasvinberg@duck.com
+██████████████████  ████████    Contact - mattiasvinberg@duck.com
 ██████████████████  ████████   
-██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████    MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
 ██████████████████  ████████   
-████████            ████████       More desktops for WSL: https://github.com/vinberg88/opensuse
+████████            ████████    More desktops for WSL: https://github.com/vinberg88/opensuse
 ████████  ████████  ████████
 ████████  ████████  ████████    OS: Manjaro Linux x86_64 for WSL. Desktop for LINUX - XFCE4
 ████████  ████████  ████████    
@@ -125,7 +125,7 @@ Copy and Paste in Manjaro terminal: manjaro-wsl update
 
 ------------------------------------------------------
 
-Reboot Endeavour - Reboot Manjaro - Reboot Endeavour - Reboot Manjaro
+Reboot Manjaro - Reboot Manjaro - Reboot Manjaro - Reboot Manjaro
 
 ------------------------------------------------------
 
@@ -148,11 +148,11 @@ yay -S hyfetch fastfetch
 Test by type thie in Bash after install: hyfetch
 
 
-██████████████████  ████████   Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
+██████████████████  ████████    Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
 ██████████████████  ████████   
-██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████    MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
 ██████████████████  ████████   
-████████            ████████       More desktops for WSL: https://github.com/vinberg88/opensuse
+████████            ████████    More desktops for WSL: https://github.com/vinberg88/opensuse
 ████████  ████████  ████████
 ████████  ████████  ████████    OS: Manjaro Linux x86_64 for WSL. Desktop for LINUX - XFCE4
 ████████  ████████  ████████    
@@ -207,11 +207,11 @@ sudo systemctl enable lightdm
 
 ------------------------------------------------------
 
-██████████████████  ████████   Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
+██████████████████  ████████    Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
 ██████████████████  ████████   
-██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████    MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
 ██████████████████  ████████   
-████████            ████████       More desktops for WSL: https://github.com/vinberg88/opensuse
+████████            ████████    More desktops for WSL: https://github.com/vinberg88/opensuse
 ████████  ████████  ████████
 ████████  ████████  ████████    OS: Manjaro Linux x86_64 for WSL. Desktop for LINUX - XFCE4
 ████████  ████████  ████████    
@@ -322,11 +322,11 @@ Paste in Terminal: dbus-launch startxfce4
 Regards Mattias Vinberg - Manjaro - Linux - XFCE4 - WSL - Sweden - X410 - Windows 11 - Manjaro - 2025
 
 
-██████████████████  ████████   Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
+██████████████████  ████████    Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
 ██████████████████  ████████   
-██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████    MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
 ██████████████████  ████████   
-████████            ████████       More desktops for WSL: https://github.com/vinberg88/opensuse
+████████            ████████    More desktops for WSL: https://github.com/vinberg88/opensuse
 ████████  ████████  ████████
 ████████  ████████  ████████    OS: Manjaro Linux x86_64 for WSL. Desktop for LINUX - XFCE4
 ████████  ████████  ████████    
