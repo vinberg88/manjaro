@@ -1,7 +1,7 @@
 MANJARO and XFCE - WSL - How to install XFCE4 desktop via Manjaro - X410 - Windows 11 - YouTube - 2026
 
 How to install XFCE4 via Manjaro and Windows 11 - TEXT via GITHUB
-Comming SONE..
+https://github.com/vinberg88/manjaro/blob/main/Manjaro-Xfce4-2026.txt
 
 How to install XFCE4 via Manjaro and Windows 11 - MOVIE via YOUTUBE
 Comming SONE..
