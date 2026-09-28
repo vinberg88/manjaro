@@ -39,6 +39,18 @@ Setup MATE for Manjaro via YouTube: Comming SONE..
 </p>
 
 ---
+Install XFCE4 desktop for Manjaro and WSL for WINDOWS 11
+
+Setup XFCE / XFCE4 for Manjaro via Github: https://github.com/vinberg88/manjaro/blob/main/Manjaro-Xfce4-2026.txt
+
+Setup XFCE for Manjaro via YouTube: Comming SONE
+
+<p align="center">
+    <a href="https://github.com/vinberg88/manjaro/blob/main/Manjaro-Xfce4-2026.txt">
+<img width="1920" height="1080" alt="Manjaro-Xfce4-2026" src="https://github.com/user-attachments/assets/d38633d1-85ef-4bc9-a4eb-b95a8d4def51" />
+</p>
+
+---
 
 ## What is Manjaro Linux?
 
