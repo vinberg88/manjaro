@@ -43,7 +43,7 @@ Install XFCE4 desktop for Manjaro and WSL for WINDOWS 11
 
 Setup XFCE for Manjaro via Github: https://github.com/vinberg88/manjaro/blob/main/Manjaro-Xfce4-2026.txt
 
-Setup XFCE for Manjaro via YouTube: Comming SONE
+Setup XFCE for Manjaro via YouTube: https://www.youtube.com/watch?v=issZWE6Q8nQ
 
 <p align="center">
     <a href="https://github.com/vinberg88/manjaro/blob/main/Manjaro-Xfce4-2026.txt">
