@@ -20,7 +20,23 @@ Setup KDE 6 for Manjaro via Github: https://github.com/vinberg88/manjaro/blob/ma
 
 Setup KDE 6 for Manjaro via YouTube: https://www.youtube.com/watch?v=n8cddVc5cQE
 
+<p align="center">
+  <a href="https://github.com/vinberg88/manjaro/blob/main/Manjaro-KDE6-2026.txt">
 <img width="1200" height="800" alt="Manjaro-KDE6-2026" src="https://github.com/user-attachments/assets/9c7d62a5-5950-4054-84c7-5112cc1bb406" />
+</p>
+
+---
+
+Time to test Mate deskop for MANJARO and WSL - 2026
+
+Setup MATE desktop for Manjaro via Github: https://github.com/vinberg88/manjaro/blob/main/Manjaro-Mate.txt
+
+Setup MATE for Manjaro via YouTube: Comming SONE..
+
+<p align="center">
+    <a href="https://github.com/vinberg88/manjaro/blob/main/Manjaro-Mate.txt">
+<img width="1920" height="1080" alt="Manjaro-MATE" src="https://github.com/user-attachments/assets/1a097271-2ee3-4ed1-9a41-65ba36420277" />
+</p>
 
 ---
 
