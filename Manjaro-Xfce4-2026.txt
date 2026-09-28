@@ -1,0 +1,345 @@
+MANJARO and XFCE - WSL - How to install XFCE4 desktop via Manjaro - X410 - Windows 11 - YouTube - 2026
+
+How to install XFCE4 via Manjaro and Windows 11 - TEXT via GITHUB
+Comming SONE..
+
+How to install XFCE4 via Manjaro and Windows 11 - MOVIE via YOUTUBE
+Comming SONE..
+
+Download Manjaro here for WSL: https://github.com/vinberg88/manjaro
+
+TOOLS THAT I USE FOR WSL and WINDOWS 11 - 2026 - MANJARO AND XFCE4
+
+Raft WSL is a powerful tool for managing Windows Subsystem for Linux distributions.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+Use X410 - X Server for Windows 11 and it works well.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+██████████████████  ████████   Contact - mattiasvinberg@duck.com
+██████████████████  ████████   
+██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████   
+████████            ████████       More desktops for WSL: https://github.com/vinberg88/opensuse
+████████  ████████  ████████
+████████  ████████  ████████    OS: Manjaro Linux x86_64 for WSL. Desktop for LINUX - XFCE4
+████████  ████████  ████████    
+████████  ████████  ████████    Host: Windows Subsystem for Linux - Manjaro-WSL (2.9.10.0)
+████████  ████████  ████████
+████████  ████████  ████████    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+████████  ████████  ████████    
+████████  ████████  ████████    OS: Windows 11 Pro for Workstations (25H2) x86_64
+████████  ████████  ████████     
+████████  ████████  ████████    Find ME - https://github.com/vinberg88
+████████  ████████  ████████  
+████████  ████████  ████████    DOWNLOAD MANJARO: https://github.com/vinberg88/manjaro
+████████  ████████  ████████     
+████████  ████████  ████████    Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
+
+
+About Manjaro for WSL - 2026 - https://manjaro.org
+
+Manjaro is a versatile open-source Linux operating system designed
+with a strong focus on safeguarding user privacy and offering
+extensive control over hardware. This user-friendly OS is an
+excellent choice for those who seek a fresh computing experience,
+as it can be seamlessly installed on a diverse array of devices.
+With support for both x86-64 and ARM architectures, Manjaro
+stands as an ideal option for any device or computing environment.
+Furthermore, Manjaro provides an array of customization options
+and a rich selection of applications, all while prioritizing
+security and privacy features. To cater to a wide audience.
+
+XFCE4 Desktop Environment - https://www.xfce.org
+
+XFCE4 is a lightweight desktop environment for UNIX-like systems.
+It aims to be fast and low on system resources, while still being 
+visually appealing and user friendly. XFCE4 embodies the traditional
+UNIX philosophy of modularity and re-usability. It consists of a
+number of components that provide the full functionality one can
+expect of a modern desktop environment. They are packaged separately
+and you can pick among the available packages to create the optimal
+personal working environment. Another priority of XFCE4 is adherence
+to standards, specifically those defined at freedesktop.org
+XFCE4 can be installed on several UNIX platforms. It is known to
+compile on Linux, NetBSD, FreeBSD, OpenBSD, Solaris, Cygwin and
+MacOS X, on x86, PPC, Sparc, Alpha...
+
+Find More Stuff for WSL here. Diffrent desktops for WSL and Windows 11 - 2026
+
+https://github.com/vinberg88/opensuse or https://github.com/vinberg88
+
+WSL desktop and Linux via YouTUBE - https://www.youtube.com/@mattiasvinberg
+
+Info Page for WSL: https://vinberg88.github.io
+
+------------------------------------------------------
+
+Download MANJARO from GITHUB https://github.com/vinberg88/manjaro
+
+Now press the BLUE ICON and you are running MANJARO.
+
+MANJARO WSL WILL SETUP USER AND PASSWORD AND HOSTNAME FOR MANJARO IN CONSOLE.
+
+After install use cd in terminal: cd 
+
+------------------------------------------------------
+
+Next go to MANJARO terminal and do this.
+
+Copy and Paste in Manjaro terminal: sudo nano /etc/pacman.conf 
+
+and change in file.. Remove old text for # Misc options
+
+# Misc options
+#UseSyslog
+Color
+ParallelDownloads = 20
+ILoveCandy
+#TotalDownload
+#CheckSpace
+VerbosePkgLists
+
+Now go done in file and change this in nano.
+
+#[multilib]
+#Include = /etc/pacman.d/mirrorlist
+
+to
+
+[multilib]
+Include = /etc/pacman.d/mirrorlist
+
+Remove this line in bottom of /etc/pacman.conf - ParallelDownloads = 5
+
+Save and quit nano.
+
+------------------------------------------------------
+
+Run this after installation will update all =)
+
+Copy and Paste in Manjaro terminal: manjaro-wsl update
+
+------------------------------------------------------
+
+Reboot Endeavour - Reboot Manjaro - Reboot Endeavour - Reboot Manjaro
+
+------------------------------------------------------
+
+Paste all in terminal - One by One FOR MANJARO and XFCE4
+
+sudo pacman -S xorg xorg-server xorg-xinit mesa xterm xorg-twm xorg-xrandr
+
+sudo pacman -S xorg-twm xterm xorg-xclock lightdm bluedevil libqtxdg
+
+sudo pacman -S xorg-xfontsel xorg-xlsfonts xorg-xkill xorg-xinput xorg-xwininfo
+
+sudo pacman -S bash git npm wget curl dialog go fakeroot dbus ibus networkmanager glxinfo
+
+------------------------------------------------------
+ 
+Install Hyfetch to see where we are =]
+
+yay -S hyfetch fastfetch
+
+Test by type thie in Bash after install: hyfetch
+
+
+██████████████████  ████████   Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
+██████████████████  ████████   
+██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████   
+████████            ████████       More desktops for WSL: https://github.com/vinberg88/opensuse
+████████  ████████  ████████
+████████  ████████  ████████    OS: Manjaro Linux x86_64 for WSL. Desktop for LINUX - XFCE4
+████████  ████████  ████████    
+████████  ████████  ████████    Host: Windows Subsystem for Linux - Manjaro-WSL (2.9.10.0)
+████████  ████████  ████████
+████████  ████████  ████████    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+████████  ████████  ████████    
+████████  ████████  ████████    OS: Windows 11 Pro for Workstations (25H2) x86_64
+████████  ████████  ████████     
+████████  ████████  ████████    Find ME - https://github.com/vinberg88
+████████  ████████  ████████  
+████████  ████████  ████████    DOWNLOAD MANJARO: https://github.com/vinberg88/manjaro
+████████  ████████  ████████     
+████████  ████████  ████████    Contact - mattiasvinberg@duck.com
+
+
+------------------------------------------------------
+
+Install Google Chrome - Favorite and work well via Manjaro
+
+yay -S google-chrome
+
+------------------------------------------------------
+
+Install Blanket - Listen to sounds for Manjaro
+
+yay -S blanket
+
+------------------------------------------------------
+
+Install Gimp - LibreOffice - Code - Manjaro - xfce4
+
+yay -S gimp libreoffice code
+
+------------------------------------------------------
+
+Time to install XFCE4 / XFCE Desktop for Manjaro - 2026
+
+sudo pacman -S xfce4 xfce4-goodies xfce4-whiskermenu-plugin
+
+yay -S menu
+
+yay -S xfdesktop-git
+
+Take this to so we have a terminal: yay -S gnome-terminal
+
+------------------------------------------------------
+
+Paste in terminal to start lightdm
+
+sudo systemctl enable lightdm
+
+------------------------------------------------------
+
+██████████████████  ████████   Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
+██████████████████  ████████   
+██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████   
+████████            ████████       More desktops for WSL: https://github.com/vinberg88/opensuse
+████████  ████████  ████████
+████████  ████████  ████████    OS: Manjaro Linux x86_64 for WSL. Desktop for LINUX - XFCE4
+████████  ████████  ████████    
+████████  ████████  ████████    Host: Windows Subsystem for Linux - Manjaro-WSL (2.9.10.0)
+████████  ████████  ████████
+████████  ████████  ████████    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+████████  ████████  ████████    
+████████  ████████  ████████    OS: Windows 11 Pro for Workstations (25H2) x86_64
+████████  ████████  ████████     
+████████  ████████  ████████    Find ME - https://github.com/vinberg88
+████████  ████████  ████████  
+████████  ████████  ████████    DOWNLOAD MANJARO: https://github.com/vinberg88/manjaro
+████████  ████████  ████████     
+████████  ████████  ████████    Contact - mattiasvinberg@duck.com
+
+------------------------------------------------------
+
+Fix IP problem for X410. Cant find screen problem - MANAJRO AND XFCE4 DESKTOP.
+
+OPEN POWERSHELL FROM MICROSOFT AND TYPE: ipconfig
+
+SAVE IP HERE FOR MANJARO: 172.30.16.1
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL in POWERSHELL so xserver works.
+
+NOW GO BACK TO MANJARO Terminal and paste this.
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1 <-- put your ip number here from Powershell and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed for MANJARO AND XFCE4 desktop.
+
+------------------------------------------------------
+
+Type in terminal: sudo nano ~/.bash_XFCE4_desktop
+
+Paste this in terminal and save:
+
+export XDG_SESSION_TYPE=x11
+export XDG_SESSION_CLASS=user
+export GDK_BACKEND=x11
+
+export LIBGL_ALWAYS_SOFTWARE=1
+
+------------------------------------------------------
+
+Copy and paste all in terminal so we can change wallpaper =)
+
+Terminal will stop working and just reboot manjaro after paste this in terminal.
+
+
+$ cat /usr/bin/xfce4-set-wallpaper:
+#!/bin/bash
+
+# Author: Weitian Leung <weitianleung@gmail.com>
+# Version: 2.1
+# License: GPL-3.0
+# Description: set a picture as xfce4 wallpaper
+
+# xfce4-desktop requires an absolute path.
+wallpaper="$(realpath "$1")"
+
+# check image
+mime_type=`file --mime-type -b "$wallpaper"`
+if [[ ! "$mime_type" == image/* ]]; then
+        echo "Invalid image"
+        exit 1
+fi
+
+# set to every monitor that contains image-path/last-image
+properties=$(xfconf-query -c xfce4-desktop -p /backdrop -l | grep -e "screen.*/monitor.*image-path$" -e "screen.*/monitor.*/last-image$")
+
+for property in $properties; do
+        xfconf-query -c xfce4-desktop -p $property -s "$wallpaper"
+done
+
+------------------------------------------------------
+
+Manjaro - Reboot Linux - Reboot Linux - Reboot Linux - Reboot Linux - Manjaro
+
+------------------------------------------------------
+
+NOTE - When you start desktop remove trash from xfce4 desktop via settnings for wallpapers.
+Desktop will crash if you dont do that for wsl and manjaro.
+
+
+Time to start XFCE4 / XFCE desktop. First start X410 then you start Manjaro via terminal -  Done =]
+
+
+Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Paste in Terminal: . ~/.bash_XFCE4_desktop
+
+Paste in Terminal: dbus-launch startxfce4
+
+------------------------------------------------------
+
+Regards Mattias Vinberg - Manjaro - Linux - XFCE4 - WSL - Sweden - X410 - Windows 11 - Manjaro - 2025
+
+
+██████████████████  ████████   Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
+██████████████████  ████████   
+██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████   
+████████            ████████       More desktops for WSL: https://github.com/vinberg88/opensuse
+████████  ████████  ████████
+████████  ████████  ████████    OS: Manjaro Linux x86_64 for WSL. Desktop for LINUX - XFCE4
+████████  ████████  ████████    
+████████  ████████  ████████    Host: Windows Subsystem for Linux - Manjaro-WSL (2.9.10.0)
+████████  ████████  ████████
+████████  ████████  ████████    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+████████  ████████  ████████    
+████████  ████████  ████████    OS: Windows 11 Pro for Workstations (25H2) x86_64
+████████  ████████  ████████     
+████████  ████████  ████████    Find ME - https://github.com/vinberg88
+████████  ████████  ████████  
+████████  ████████  ████████    DOWNLOAD MANJARO: https://github.com/vinberg88/manjaro
+████████  ████████  ████████     
+████████  ████████  ████████    Contact - mattiasvinberg@duck.com
+
+------------------------------------------------------
