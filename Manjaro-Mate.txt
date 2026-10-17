@@ -26,7 +26,7 @@ https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
 ██████████████████  ████████   
 ██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
 ██████████████████  ████████   
-████████            ████████       More desktops for WSL: https://github.com/vinberg88/opensuse
+████████            ████████    More desktops for WSL: https://github.com/vinberg88/opensuse
 ████████  ████████  ████████
 ████████  ████████  ████████    OS: Manjaro Linux x86_64 for WSL. Desktop for LINUX - MATE
 ████████  ████████  ████████    
@@ -82,7 +82,7 @@ WSL desktop and Linux via YouTUBE - https://www.youtube.com/@mattiasvinberg
 ██████████████████  ████████   
 ██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
 ██████████████████  ████████   
-████████            ████████       More desktops for WSL:  https://github.com/vinberg88/opensuse
+████████            ████████    More desktops for WSL:  https://github.com/vinberg88/opensuse
 ████████  ████████  ████████
 ████████  ████████  ████████    Watch videos via YouTUBE: https://www.youtube.com/@mattiasvinberg
 ████████  ████████  ████████    
