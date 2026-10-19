@@ -5,7 +5,7 @@ Download MAnjaro for WSL here: https://github.com/vinberg88/manjaro
 THIS IS BETA - DEEPIN CAN CHANGE STUFF FROM DAY TO DAY. JUST FOR TESTING DEEPIN VIA MANJARO.
 
 How to install DEEPIN desktop via MAnjaro OS and Windows 11 - TEXT VIA GITHUB
-COMMING sond...
+https://github.com/vinberg88/manjaro/blob/main/MANJARO-DEEPIN.txt
 
 How to install DEEPIN desktop via MANJARO OS and Windows 11 - MOVIE VIA YOUTUBE
 COMMING sond...
