@@ -12,9 +12,29 @@ The current release is **Manjaro WSL Base 0.1.1**.
 
 [Download Manjaro WSL Base 0.1.1](https://github.com/vinberg88/manjaro/releases/tag/0.1.1)
 
----
 
 Here you will find diffrent desktop for MANJARO LINUX to Install for WSL and Windows 11.
+
+---
+
+Install DEEPIN desktop for Manjaro and WSL for WINDOWS 11
+
+Setup DEEPIN for Manjaro via Github: https://github.com/vinberg88/manjaro/blob/main/Manjaro-KDE6-2026.txt
+
+Setup KDE 6 for Manjaro via YouTube: Commming SONE....
+
+<p align="center">
+  <a href="https://github.com/vinberg88/manjaro/blob/main/MANJARO-DEEPIN.txt">
+<img width="1920" height="1080" alt="MANJARO-DEEPIN" src="https://github.com/user-attachments/assets/43b76de8-4265-4c9a-addb-bc5086a4896e" />
+</p>
+
+About DEEPIN FOR WSL AND MANJARO
+
+Beautiful UI design, intimate human-computer interaction, and friendly community environment make you feel at
+home. Deepin is easy to install and can meet your work needs without additional system  configuration and
+software installation.
+
+---
 
 Setup KDE 6 for Manjaro via Github: https://github.com/vinberg88/manjaro/blob/main/Manjaro-KDE6-2026.txt
 
@@ -39,6 +59,7 @@ Setup MATE for Manjaro via YouTube: Comming SONE..
 </p>
 
 ---
+
 Install XFCE4 desktop for Manjaro and WSL for WINDOWS 11
 
 Setup XFCE for Manjaro via Github: https://github.com/vinberg88/manjaro/blob/main/Manjaro-Xfce4-2026.txt
