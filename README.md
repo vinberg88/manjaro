@@ -21,7 +21,7 @@ Install DEEPIN desktop for Manjaro and WSL for WINDOWS 11
 
 Setup DEEPIN for Manjaro via Github: https://github.com/vinberg88/manjaro/blob/main/Manjaro-KDE6-2026.txt
 
-Setup KDE 6 for Manjaro via YouTube: Commming SONE....
+Setup DEEPIN for Manjaro via YouTube: Commming SONE....
 
 <p align="center">
   <a href="https://github.com/vinberg88/manjaro/blob/main/MANJARO-DEEPIN.txt">
