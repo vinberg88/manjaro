@@ -2,13 +2,15 @@ MANJARO and DEEPIN - WSL - How to install DEEPIN desktop via MAnjaro - Windows 1
 
 Download MAnjaro for WSL here: https://github.com/vinberg88/manjaro
 
+Find More Desktops here for WSL and Windows 11: https://github.com/vinberg88
+
 THIS IS BETA - DEEPIN CAN CHANGE STUFF FROM DAY TO DAY. JUST FOR TESTING DEEPIN VIA MANJARO.
 
 How to install DEEPIN desktop via MAnjaro OS and Windows 11 - TEXT VIA GITHUB
 https://github.com/vinberg88/manjaro/blob/main/MANJARO-DEEPIN.txt
 
 How to install DEEPIN desktop via MANJARO OS and Windows 11 - MOVIE VIA YOUTUBE
-COMMING sond...
+https://www.youtube.com/watch?v=7WYIomGTHtI
 
 TOOLS THAT I USE FOR WSL and WINDOWS 11 - 2026 - MANJARO AND DEEPIN DESKTOP
 
@@ -22,11 +24,11 @@ WSL UI - This tool is free and works like Raft WSL
 https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
 
 
-██████████████████  ████████   Enjoy Manjaro on WSL and DEEPIN desktop.
+██████████████████  ████████    Enjoy Manjaro on WSL and DEEPIN desktop.
 ██████████████████  ████████   
-██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████    MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
 ██████████████████  ████████   
-████████            ████████       More desktops for WSL - https://github.com/vinberg88/opensuse
+████████            ████████    More desktops for WSL - https://github.com/vinberg88/opensuse
 ████████  ████████  ████████
 ████████  ████████  ████████    Watch videos via YouTUBE for WSL - https://www.youtube.com/@mattiasvinberg
 ████████  ████████  ████████    
@@ -132,11 +134,11 @@ just to test so all works for Manjaro =)
 ------------------------------------------------------------
 
 
-██████████████████  ████████   Enjoy Manjaro on WSL and DEEPIN desktop.
+██████████████████  ████████    Enjoy Manjaro on WSL and DEEPIN desktop.
 ██████████████████  ████████   
-██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████    MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
 ██████████████████  ████████   
-████████            ████████       More desktops for WSL - https://github.com/vinberg88/opensuse
+████████            ████████    More desktops for WSL - https://github.com/vinberg88/opensuse
 ████████  ████████  ████████
 ████████  ████████  ████████    Watch videos via YouTUBE for WSL - https://www.youtube.com/@mattiasvinberg
 ████████  ████████  ████████    
@@ -209,11 +211,11 @@ yay -S hyfetch fastfetch
 Test by type thie in Bash after install: hyfetch
 
 
-██████████████████  ████████   Enjoy Manjaro on WSL and DEEPIN desktop.
+██████████████████  ████████    Enjoy Manjaro on WSL and DEEPIN desktop.
 ██████████████████  ████████   
-██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████    MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
 ██████████████████  ████████   
-████████            ████████       More desktops for WSL - https://github.com/vinberg88/opensuse
+████████            ████████    More desktops for WSL - https://github.com/vinberg88/opensuse
 ████████  ████████  ████████
 ████████  ████████  ████████    Watch videos via YouTUBE for WSL - https://www.youtube.com/@mattiasvinberg
 ████████  ████████  ████████    
@@ -302,11 +304,11 @@ Type this in terminal and put your username there - sudo loginctl enable-linger 
 
 ----------------------------------------------------------------
 
-██████████████████  ████████   Enjoy Manjaro on WSL and DEEPIN desktop.
+██████████████████  ████████    Enjoy Manjaro on WSL and DEEPIN desktop.
 ██████████████████  ████████   
-██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████    MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
 ██████████████████  ████████   
-████████            ████████       More desktops for WSL - https://github.com/vinberg88/opensuse
+████████            ████████    More desktops for WSL - https://github.com/vinberg88/opensuse
 ████████  ████████  ████████
 ████████  ████████  ████████    Watch videos via YouTUBE for WSL - https://www.youtube.com/@mattiasvinberg
 ████████  ████████  ████████    
@@ -388,11 +390,11 @@ TAKE SOME TIME TO START DEEPIN DESKTOP - JUST WAIT FOR MANJARO AND DEEPIN DESKTO
 
 ----------------------------------------------------------------
 
-██████████████████  ████████   Enjoy Manjaro on WSL and DEEPIN desktop.
+██████████████████  ████████    Enjoy Manjaro on WSL and DEEPIN desktop.
 ██████████████████  ████████   
-██████████████████  ████████   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+██████████████████  ████████    MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
 ██████████████████  ████████   
-████████            ████████       More desktops for WSL - https://github.com/vinberg88/opensuse
+████████            ████████    More desktops for WSL - https://github.com/vinberg88/opensuse
 ████████  ████████  ████████
 ████████  ████████  ████████    Watch videos via YouTUBE for WSL - https://www.youtube.com/@mattiasvinberg
 ████████  ████████  ████████    
